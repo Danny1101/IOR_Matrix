@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IoRMatrix</string>
+    <string name="title_home">Server</string>
+    <string name="title_dashboard">Client</string>
+
+    <string-array name="valid_commands">
+        <item>d</item>
+        <item>g</item>
+        <item>h</item>
+        <item>b</item>
+
+        <item>afficher</item>
+        <item>cacher</item>
+        <item>init</item>
+
+    </string-array>
+</resources>
